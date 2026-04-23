@@ -1,7 +1,9 @@
-📘 LeetCode Solutions:
+📘 LeetCode Solutions: 
+
 A collection of my solutions to LeetCode problems, focused on building strong problem-solving skills and mastering data structures and algorithms.
 
-🚀 About:
+🚀 About: 
+
 This repository contains solutions implemented in Python , written with an emphasis on:
 
 Clean and readable code
@@ -10,22 +12,27 @@ Consistent practice
 
 I use this repo to track my progress and improve my understanding of core DSA concepts.
 
-🧠 What You'll Find:
+🧠 What You'll Find: 
+
 Solutions to a wide range of LeetCode problems
 Different approaches where applicable
 Focus on logic, efficiency, and clarity 
 
-📈 Progress:
+📈 Progress: 
+
 Solutions are added regularly as part of my  practice.
 LeetHub automatically tracks and updates my submissions.
 
-🛠️ Tech Stack:
+🛠️ Tech Stack: 
+
 Python 🐍 
 
-🎯 Goal:
+🎯 Goal: 
+
 To consistently improve problem-solving skills and prepare for technical interviews by practicing DSA problems.
 
-📌 Note:
+📌 Note: 
+
 This repository is mainly for learning and practice purposes.                                                                  
  
 # LeetCode Topics
