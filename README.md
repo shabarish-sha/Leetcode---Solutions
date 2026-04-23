@@ -13,6 +13,7 @@ My accepted solutions to LeetCode problems, organized by language.
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
@@ -27,4 +28,24 @@ My accepted solutions to LeetCode problems, organized by language.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
