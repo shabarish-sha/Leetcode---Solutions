@@ -16,12 +16,14 @@ My accepted solutions to LeetCode problems, organized by language.
 | [0139-word-break](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -64,4 +66,5 @@ My accepted solutions to LeetCode problems, organized by language.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
