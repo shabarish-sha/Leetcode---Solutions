@@ -12,10 +12,12 @@ My accepted solutions to LeetCode problems, organized by language.
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shabarish-sha/Leetcode---Solutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
